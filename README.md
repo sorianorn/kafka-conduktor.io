@@ -4,6 +4,7 @@ I'm using the docker setup from https://docs.conduktor.io/platform/get-started/i
 https://hub.docker.com/r/apache/kafka as provided on the lecture and by Stephane's TA Ivan T.
 
 Here are the steps that I took:
+
 Create the network first: 
 ```dockerfile 
 docker network create kafka-net
